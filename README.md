@@ -26,4 +26,3 @@ Licensed under the [MIT License](LICENSE).
 Copyright ©️ 2018. Sayem Shahrier.
 <br>
 All Rights Reserved.
-# farmingdale-shuttlebus
